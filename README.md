@@ -8,12 +8,11 @@ Competición de Kaggle sobre predicciones de salarios de Data Science en el que 
 
 ### 1. Limpieza de datos
 
-Para ello se ha realizado una exploración del dataframe, identificando los dierentes tipos de datos que existían en el dataset.
-Se ha observado que la mayoría erán datos categóricos, por lo que se han transformado a través de diferentes modalidades según cada caso, con get-dummies o label encoder.
+Para ello se ha realizado una exploración y análisis de los datos, obervando que la mayoría erán categóricos, y se ha procedido a su transformación a través de dos modalidades según cada caso, aplicando get-dummies o label encoder.
 
 ### 2. Comparación de modelos
 
-A traés de Lazzy, se han comparado diferentes modelos de predicción para encontrar el óptimo para este caso.
+A trvaés de Lazzy, se han comparado diferentes modelos de predicción para encontrar el óptimo.
 
 ### 3. Predicción
 
